@@ -1,0 +1,16 @@
+.mainBox {
+    display:flex;
+
+}
+
+
+.colorBox {
+    background-color: rgb(237, 235, 235);
+    margin-bottom: 3px;
+}
+
+.colorBox2 {
+    background-color: rgb(255, 255, 255);
+    margin: 3px;
+}
+
